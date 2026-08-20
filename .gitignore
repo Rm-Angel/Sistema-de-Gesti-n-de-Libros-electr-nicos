@@ -1,0 +1,43 @@
+# Compilación
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+*.app
+/bin/
+/build/
+/dist/
+
+# Archivos temporales
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos comprimidos
+*.zip
+*.rar
+*.7z
+
+# Carpetas temporales
+temp/
+tmp/
+
+# Datos sensibles
+.env
+.env.*
